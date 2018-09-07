@@ -1,0 +1,18 @@
+22
+
+flavor1 9
+
+flavor2 0
+
+flavor3 0
+
+flavor4 0
+
+flavor5 13
+
+
+
+1
+
+1 flavor1 9 flavor5 13
+
